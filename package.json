@@ -1,0 +1,23 @@
+{
+  "name": "typescript-learner",
+  "version": "0.0.1",
+  "description": "Typescriptlearning",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc -p tsconfig.build.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/goutamdh/typescript-learner.git"
+  },
+  "author": "goutam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/goutamdh/typescript-learner/issues"
+  },
+  "homepage": "https://github.com/goutamdh/typescript-learner#readme",
+  "devDependencies": {
+    "@types/node": "^18.7.5",
+    "typescript": "^4.7.4"
+  }
+}
