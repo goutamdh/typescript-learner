@@ -1,0 +1,7 @@
+name: "typescript-learner"
+author: "Goutam Kumar"
+description: "Learning steps in typescript."
+
+runs:
+  using: "node16"
+  main: "dist/index.js"
