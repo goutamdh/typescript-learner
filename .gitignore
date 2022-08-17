@@ -1,0 +1,8 @@
+node_modules/
+.node_modules/
+*.config
+.eslintcache
+yarn.lock
+dist
+.idea
+.vscode
